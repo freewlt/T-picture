@@ -1,0 +1,1 @@
+<view class="container"><view class="logo"><image class="avatarUrl" bindtap="bindViewTap" src="/static/images/logo.png" mode="cover"></image><text class="txt">您还未登录，请先登录</text></view><button class="designBtn" open-type="getUserInfo" data-event-opts="{{[['getuserinfo',[['getUserInfo',['$event']]]]]}}" bindgetuserinfo="__e">现在登录</button></view>

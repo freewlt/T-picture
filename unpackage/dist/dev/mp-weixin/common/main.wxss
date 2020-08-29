@@ -1,0 +1,28 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*每个页面公共css */
+page{
+	background-color: #f5f5f5;
+}
+.symbol{
+	display: block;
+	width:6rpx;
+	height:30rpx;
+	margin-right: 20rpx;
+	background:rgba(230,0,18,1);
+	border-radius:100px;
+}
+
